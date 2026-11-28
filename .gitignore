@@ -36,7 +36,6 @@ __pycache__/
 *.pth
 *.ckpt
 *.onnx
-checkpoints/
 runs/
 lightning_logs/
 
